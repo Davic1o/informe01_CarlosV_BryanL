@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "informe01_CarlosV_BryanL/1.0.0": {
+      "informe00_CarlosV_BryanL/1.0.0": {
         "runtime": {
-          "informe01_CarlosV_BryanL.dll": {}
+          "informe00_CarlosV_BryanL.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "informe01_CarlosV_BryanL/1.0.0": {
+    "informe00_CarlosV_BryanL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

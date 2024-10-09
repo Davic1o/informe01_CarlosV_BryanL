@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe01_CarlosV_BryanL\\informe01_CarlosV_BryanL.csproj",
-      "projectName": "informe01_CarlosV_BryanL",
-      "projectPath": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe01_CarlosV_BryanL\\informe01_CarlosV_BryanL.csproj",
+      "projectUniqueName": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe00_CarlosV_BryanL\\informe00_CarlosV_BryanL.csproj",
+      "projectName": "informe00_CarlosV_BryanL",
+      "projectPath": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe00_CarlosV_BryanL\\informe00_CarlosV_BryanL.csproj",
       "packagesPath": "C:\\Users\\Davicio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe01_CarlosV_BryanL\\obj\\",
+      "outputPath": "C:\\Users\\Davicio\\EPN\\9no Semestre\\Aplicaciones distribuidas\\Laboratorio\\informe00_CarlosV_BryanL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
