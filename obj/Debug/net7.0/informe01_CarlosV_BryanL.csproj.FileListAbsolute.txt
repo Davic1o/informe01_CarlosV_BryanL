@@ -1,0 +1,15 @@
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\bin\Debug\net7.0\informe01_CarlosV_BryanL.exe
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\bin\Debug\net7.0\informe01_CarlosV_BryanL.deps.json
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\bin\Debug\net7.0\informe01_CarlosV_BryanL.runtimeconfig.json
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\bin\Debug\net7.0\informe01_CarlosV_BryanL.dll
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\bin\Debug\net7.0\informe01_CarlosV_BryanL.pdb
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.csproj.AssemblyReference.cache
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.AssemblyInfoInputs.cache
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.AssemblyInfo.cs
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.csproj.CoreCompileInputs.cache
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.dll
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\refint\informe01_CarlosV_BryanL.dll
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.pdb
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\informe01_CarlosV_BryanL.genruntimeconfig.cache
+C:\Users\Davicio\EPN\9no Semestre\Aplicaciones distribuidas\Laboratorio\informe01_CarlosV_BryanL\obj\Debug\net7.0\ref\informe01_CarlosV_BryanL.dll
