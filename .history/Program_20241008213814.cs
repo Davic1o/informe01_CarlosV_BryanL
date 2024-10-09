@@ -38,7 +38,7 @@
 
 // ************************************************************************
 
-
+using System;
 namespace informe01_CarlosV_BryanL
 {
  class Program
@@ -57,9 +57,7 @@ namespace informe01_CarlosV_BryanL
  Console.WriteLine("x << xˆ2 << xˆ3");
  // Realización de cálculos para obtención de ponencias y presentación
  // de resultados
-
- // se cabio la asignacion de la variable x=x+1 por x++ que ifualment suma mas 1 y es la convecion correcta 
- for (int x = desde; x <= hasta; x++)
+ for (int x = desde; x <= hasta; x = x + 1)
  {
  Console.WriteLine("{0} << {1} << {2}", x, x * x, x * x * x);
  }
@@ -79,9 +77,7 @@ namespace informe01_CarlosV_BryanL
  Console.WriteLine("grados << radianes << seno << coseno");
  // Cálculos para obtención de ángulo en radianes, y sus valores de sin
  // y cos
-
- // se cambio la variable  que estaba par ala asigunacio nde  el bucle por la que permite entender mejor que se va a suar 5 a cada loop
- for (double x = desde; x <= hasta; x += 5.0)
+ for (double x = desde; x <= hasta; x = x + 5.0)
  {
     // se corrigio la declaracion de la variable "radianes" ya que staba iniciada pero no el tipo y no podia funcionar de esa maenra 
  double radianes;
